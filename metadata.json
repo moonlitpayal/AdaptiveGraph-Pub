@@ -1,0 +1,6 @@
+{
+  "name": "AdaptiveGraph",
+  "description": "Autonomous multi-representation graph engine and interactive systems workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
